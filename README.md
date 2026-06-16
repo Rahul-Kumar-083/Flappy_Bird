@@ -74,13 +74,6 @@ git clone https://github.com/Rahul-Kumar-083/Flappy_Bird.git
 cd Flappy_Bird
 ```
 
-### Create Virtual Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate
-```
-
 ### Install Dependencies
 
 ```bash
