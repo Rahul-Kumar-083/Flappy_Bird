@@ -239,12 +239,6 @@ No manual configuration is required.
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Built as a Deep Reinforcement Learning project to explore how Deep Q-Networks can learn complex game-playing behavior from raw environment interactions.
